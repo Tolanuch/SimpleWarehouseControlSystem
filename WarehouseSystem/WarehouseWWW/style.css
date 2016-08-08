@@ -1,0 +1,72 @@
+﻿html {
+    padding:0;
+    margin:0;
+    font-family: 'Verdana', sans-serif, Arial;
+    font-size: 14px;
+    color: #787373;
+}
+
+a {
+    color: inherit;
+}
+
+body {
+    margin:0;
+    padding: 20px 10%;
+    box-shadow: #bebebe 0px 0px 100px inset;
+}
+
+.container {
+    padding: 0;
+    width: 100%;
+    position:relative;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.container .tableView {
+    margin: 0 auto;
+    min-width: 430px;
+    box-shadow: #bebebe 0px 0px 20px inset;
+}
+
+.tableView th {
+    font-size: 1.1em;
+    padding: 12px;
+}
+
+.tableView .colTbl {
+    padding: 10px;
+}
+
+.calendar {
+    position:absolute;
+    right: 55px;
+}
+
+
+
+.container ul {
+    padding-right: 0;
+    display: inline;
+    text-align:right;
+}
+
+.container ul li {
+    list-style:none;
+    padding:5px;
+}
+
+.container ul li .inBxStyle {
+    width: 70%;
+    border-radius: 5px;
+    padding: 5px 10px;
+    text-align: center;
+    margin-left: 30px;
+    font-size: 14px;
+    box-shadow: #bebebe 0 0 10px inset;
+    border:0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,6 @@
+E:\Documents\AUIN\WarehouseSystem\WarehouseWWW\bin\WarehouseWWW.dll.config
+E:\Documents\AUIN\WarehouseSystem\WarehouseWWW\bin\WarehouseWWW.dll
+E:\Documents\AUIN\WarehouseSystem\WarehouseWWW\bin\WarehouseWWW.pdb
+E:\Documents\AUIN\WarehouseSystem\WarehouseWWW\obj\Debug\WarehouseWWW.csprojResolveAssemblyReference.cache
+E:\Documents\AUIN\WarehouseSystem\WarehouseWWW\obj\Debug\WarehouseWWW.dll
+E:\Documents\AUIN\WarehouseSystem\WarehouseWWW\obj\Debug\WarehouseWWW.pdb

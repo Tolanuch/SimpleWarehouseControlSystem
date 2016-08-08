@@ -1,0 +1,9 @@
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\bin\Debug\WarhouseWebServiceClient.exe.config
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\bin\Debug\WarhouseWebServiceClient.exe
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\bin\Debug\WarhouseWebServiceClient.pdb
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\obj\Debug\WarhouseWebServiceClient.csprojResolveAssemblyReference.cache
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\obj\Debug\WarhouseWebServiceClient.Properties.Resources.resources
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\obj\Debug\WarhouseWebServiceClient.csproj.GenerateResource.Cache
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\obj\Debug\WarhouseWebServiceClient.exe
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\obj\Debug\WarhouseWebServiceClient.pdb
+E:\Documents\AUIN\WarehouseSystem\WarhouseWebServiceClient\obj\Debug\WarhouseWebServiceClient.warehouseClientForm.resources

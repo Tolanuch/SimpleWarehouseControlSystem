@@ -1,0 +1,9 @@
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\bin\Debug\WarehouseSystem.exe.config
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\obj\Debug\WarehouseSystem.csprojResolveAssemblyReference.cache
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\obj\Debug\WarehouseSystem.Warehouse.resources
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\obj\Debug\WarehouseSystem.Properties.Resources.resources
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\obj\Debug\WarehouseSystem.csproj.GenerateResource.Cache
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\bin\Debug\WarehouseSystem.exe
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\bin\Debug\WarehouseSystem.pdb
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\obj\Debug\WarehouseSystem.exe
+E:\Documents\AUIN\WarehouseSystem\WarehouseSystem\obj\Debug\WarehouseSystem.pdb
